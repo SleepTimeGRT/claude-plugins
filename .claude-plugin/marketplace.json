@@ -26,6 +26,16 @@
       },
       "category": "development",
       "tags": ["toss", "miniapp", "korean"]
+    },
+    {
+      "name": "work",
+      "description": "WORK.md — weekly markdown task management that replaces JIRA. Track shipping, blockers, and weekly rotation in a single file.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/SleepTimeGRT/work-plugin.git"
+      },
+      "category": "productivity",
+      "tags": ["work", "task-management", "weekly"]
     }
   ]
 }
